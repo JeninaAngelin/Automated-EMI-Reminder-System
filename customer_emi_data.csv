@@ -1,0 +1,8 @@
+CustomerName,EmailID,EMI_Due,DueDate,EMIAmount,ProductName,Location,LastDueStatus
+Divya,xyz2@gmail.com,4,5/5/2023,9000,I Phone 7,Chennai,Unpaid
+Angelin,xyz1@gmail.com,2,5/5/2023,12000,LG Refrigerator,Chennai,Unpaid
+Swathi,xyz3@gmail.com,4,5/5/2023,4000,Sony Television,Trichi,Paid
+Shreya,xyz4@gmail.com,3,5/5/2023,2000,HP Laser Jet,Tenkasi,Paid
+Munazir,xyz5@gmail.com,1,5/5/2023,35000,2BHK House,Chennai,Paid
+Jenina,xyz6@gmail.com,3,5/5/2023,23200,Farm Land,Trichi,Unpaid
+Vinodh,xyz7@gmail.com,5,5/5/2023,1000,Hales Fan,Madurai,Paid
